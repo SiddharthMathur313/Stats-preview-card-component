@@ -1,0 +1,70 @@
+body{
+    margin: 0%;
+    background-color:rgb(22, 33, 62);
+}
+
+.top_container{
+    position: absolute;
+    top: 240px;
+    left: 420px;
+    background-color: rgb(18, 93, 152);
+    width: 900px;
+    height: 390px;
+    border: silver solid 3px;
+
+
+
+}
+
+.imagedd{
+    float: right;
+    width: 50%;
+    height: 100%;
+}
+
+.heading_para{
+   
+    margin-left:40px;
+    padding-top: 30px;
+    padding-bottom: 4px;
+    font-style: italic;
+    text-align: center;
+}
+
+.insights_word{
+    color: whitesmoke;
+   
+}
+
+.sen{
+    text-align: center;
+    font-style: italic;
+   
+    margin-left:20px;
+    padding-top: 30px;
+   
+}
+
+.info{
+    padding-left:50px ;
+    padding-top: 23px;
+}
+
+table, th, td {
+    padding-left: 30px;
+    text-align: center;
+    border-spacing: 10px;
+    font-style: italic;
+   
+  }
+
+th{
+    color: white;
+    font-size: 20px;
+}
+td{
+    
+    font-size: 20px;
+    font-weight: bolder;
+}
+
